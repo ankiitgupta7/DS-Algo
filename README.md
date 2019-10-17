@@ -1,2 +1,2 @@
-# DS-Algo
+# Data Structure and Algorithms Codes
 Codes done by me this spring...
